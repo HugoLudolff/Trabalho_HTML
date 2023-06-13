@@ -1,0 +1,32 @@
+@charset "utf-08";
+
+.teste1{
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.teste1 input{
+    margin-top: 0px;
+}
+
+.teste1 label{
+    margin-bottom: 0px;
+    font-family: Oswald;
+
+}
+
+.confirme{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.teste1 div{
+    margin-top: 10px;
+}
+
+.titulo{
+    font-family: oswald;
+    font-size: 50px;
+    margin-bottom: 30px;
+}

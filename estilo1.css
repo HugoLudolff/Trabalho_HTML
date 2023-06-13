@@ -21,14 +21,19 @@ body{
 .imagem-slide{
     width: 750px;
     height: 500px;
-    border: solid 2px black;
+    border: none 2px white;
     box-sizing: content-box;
     margin: auto;
+    padding: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .butao{
   color: black;
   background-color: black;
+  box-sizing: content-box;
 }
 
 .descricao{
@@ -58,7 +63,7 @@ body{
 }
 
 .box-butao{
-  margin: auto;
+  margin-left: 43%;
   width: 30%;
   border: 3px solid darkslateblue;
   padding: 10px;
@@ -191,4 +196,43 @@ div.desc {
   margin:auto;
   height: auto;
   
+}
+
+.teste2{
+  align-items: center;
+  box-sizing: content-box;
+  margin-left: 43%;
+}
+
+.titulo_galeria{
+  text-align: center;
+  font-size: 40px;  
+  font-weight: bolder;
+  color: azure;
+  text-shadow: 2px 2px 2px black; 
+  margin: 50px;
+}
+
+.desc2{
+  background-color: black;
+  font-size: 14px;
+  font-weight: bold;
+  color: antiquewhite;
+}
+
+.map{
+  margin-top: 200px;
+  margin-left: 35%;
+}
+
+.caixa-texto{
+  background-color: white;
+  margin: auto;
+}
+
+.subtitulo{
+  font-size: large;
+  text-shadow: 0px 0px 0px;
+  font-variant: normal;
+  text-decoration: none;
 }
